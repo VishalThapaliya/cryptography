@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#tool{
+	margin-top:100px;
+	margin-left: 35%;
+	padding: 10px;
+	border: 1px solid #000;
+	width: 500px;
+	
+}
+
+}
+label{
+	line-height: 150%;
+	text-align: center;
+	vertical-align: text-top;
+}
+
+.btn{
+	
+	margin-left: 15px;
+	height: 25px;
+	width: 80px;
+	border: 1px solid #000;
+	border-radius: 3px;
+}
+
+.txtClef{
+	
+	margin-left: 60px;
+}
+
+#msgError{
+	font-size: 18px bold;
+	color: red;
+}
+
+.effacer{
+	margin-left: 15px;
+	height: 25px;
+	width: 80px;
+	border: 1px solid #000;
+	border-radius: 3px;
+}
